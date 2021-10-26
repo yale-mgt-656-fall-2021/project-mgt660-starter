@@ -1,1 +1,1 @@
-../../project/starter/Procfile
+web: ./bin/classproject
